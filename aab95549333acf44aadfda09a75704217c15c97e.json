@@ -1,0 +1,15 @@
+{
+    "deflections": {},
+    "gains": {},
+    "settings": {
+        "deflection": {},
+        "magnet": {
+            "mftable": "helium"
+        },
+        "source": {
+            "hv": 4500.0
+        },
+        "trap": {}
+    },
+    "spectrometer": {}
+}
