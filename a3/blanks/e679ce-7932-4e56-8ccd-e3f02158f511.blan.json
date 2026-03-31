@@ -1,0 +1,14 @@
+{
+    "He4": {
+        "error": 5.387034764002094,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bu-01-S-01"
+            }
+        ],
+        "value": 721.7793204398135
+    }
+}
