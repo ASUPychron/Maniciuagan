@@ -1,0 +1,14 @@
+{
+    "He4": {
+        "error": 4.285994948615032,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "ba-01-S-690"
+            }
+        ],
+        "value": 277.12535931422644
+    }
+}
