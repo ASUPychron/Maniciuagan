@@ -1,0 +1,35 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 0.0,
+    "commit": "48ebc8a8c170f9f126c29d91b6af765ebe9ed7a1",
+    "cryo_temperature": 0.0,
+    "extract_device": "ChromiumUV",
+    "extract_duration": 60.0,
+    "extract_units": "",
+    "extract_value": 0.0,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "",
+    "load_name": "1",
+    "pattern": "",
+    "pipette_counts": [],
+    "positions": [
+        {
+            "is_degas": false,
+            "position": null,
+            "x": 54.058,
+            "y": 51.517,
+            "z": 13.994
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "snapshots": [],
+    "timestamp": "2026-04-03T22:47:46.619876",
+    "tray": "",
+    "videos": [],
+    "weight": 0
+}
