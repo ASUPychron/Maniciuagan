@@ -1,7 +1,7 @@
 {
     "AxEM": {
         "error": 0.0,
-        "error_type": "SEM",
+        "error_type": null,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -10,16 +10,14 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "average",
-        "fn": 29,
+        "fn": 30,
         "include_baseline_error": false,
         "modifier_error": 0.0,
         "modifier_value": 0.0,
         "n": 30,
-        "outlier_excluded": [
-            6
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 0.0
     }
 }
