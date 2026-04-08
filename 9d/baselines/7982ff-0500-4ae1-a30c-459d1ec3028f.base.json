@@ -1,23 +1,25 @@
 {
     "AxEM": {
-        "error": 0.5021410099461424,
-        "error_type": null,
+        "error": 0.06896551724137932,
+        "error_type": "SEM",
         "filter_outliers_dict": {
-            "filter_outliers": false,
+            "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2,
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
         "fit": "average",
-        "fn": 0,
+        "fn": 29,
         "include_baseline_error": false,
         "modifier_error": 0.0,
         "modifier_value": 0.0,
-        "n": 0,
-        "outlier_excluded": null,
+        "n": 30,
+        "outlier_excluded": [
+            15
+        ],
         "reviewed": true,
-        "user_excluded": null,
-        "value": 0.5666666666666667
+        "user_excluded": [],
+        "value": 0.06896551724137931
     }
 }
