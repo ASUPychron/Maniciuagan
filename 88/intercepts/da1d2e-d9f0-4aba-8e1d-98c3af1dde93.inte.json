@@ -1,21 +1,38 @@
 {
     "He4": {
-        "error": 4.479956452717054,
-        "error_type": null,
+        "error": 0.960900743045253,
+        "error_type": "SEM",
         "filter_outliers_dict": {
-            "filter_outliers": false,
+            "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2,
-            "use_iqr_filtering": false,
+            "use_iqr_filtering": true,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
-        "fn": 0,
-        "include_baseline_error": false,
-        "n": 0,
-        "outlier_excluded": null,
+        "fit": "average",
+        "fn": 284,
+        "include_baseline_error": true,
+        "n": 300,
+        "outlier_excluded": [
+            100,
+            168,
+            9,
+            105,
+            234,
+            143,
+            208,
+            19,
+            61,
+            21,
+            157,
+            26,
+            59,
+            188,
+            29,
+            30
+        ],
         "reviewed": true,
-        "user_excluded": null,
-        "value": 322.3728202803212
+        "user_excluded": [],
+        "value": 343.21478873239437
     }
 }
