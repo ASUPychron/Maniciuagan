@@ -10,26 +10,12 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "average",
-        "fn": 287,
+        "fn": 300,
         "include_baseline_error": true,
         "n": 300,
-        "outlier_excluded": [
-            248,
-            256,
-            35,
-            101,
-            10,
-            202,
-            234,
-            110,
-            274,
-            152,
-            221,
-            187,
-            61
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 190.2822299651568
     }
 }
