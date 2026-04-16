@@ -1,0 +1,15 @@
+{
+    "AxEM": {
+        "error": 2.5666666666666664,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "average",
+        "modifier_error": 0.0,
+        "modifier_value": 0.0,
+        "value": 2.566666666666667
+    }
+}
