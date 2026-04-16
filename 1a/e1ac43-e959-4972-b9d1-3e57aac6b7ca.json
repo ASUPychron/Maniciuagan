@@ -1,0 +1,96 @@
+{
+    "acquisition_software": "pychron 20.1.1",
+    "aliquot": 19,
+    "analysis_type": "unknown",
+    "analyst_name": "ChrisMcDonald",
+    "arar_mapping": {
+        "Ar36": "Ar36",
+        "Ar37": "Ar37",
+        "Ar38": "Ar38",
+        "Ar39": "Ar39",
+        "Ar40": "Ar40"
+    },
+    "baseline_modifiers": {},
+    "collection_version": "2.0:2.1",
+    "comment": "ASU_DUR_20_16",
+    "conditionals": [
+        {
+            "analysis_types": [
+                "unknown",
+                "air"
+            ],
+            "frequency": 3,
+            "hash_id": 702579632191551985,
+            "level": 10,
+            "location": "setupfiles/spectrometer/default_conditionals.yaml",
+            "ntrips": 3,
+            "start_count": 0,
+            "teststr": "Ar40.bs_corrected>60000.0"
+        }
+    ],
+    "data_collection_commit": "37a52fb59b425518436db553614b1dcef8d143e0",
+    "data_reduction_software": "pychron 20.1.1",
+    "detectors": {
+        "AxEM": {
+            "deflection": null,
+            "gain": null
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "MIMAP20UM3",
+    "experiment_type": "Ar/Ar",
+    "extraction": "sft_uv.py",
+    "grainsize": "",
+    "hops": "",
+    "identifier": "10054",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "He4",
+    "irradiation_level": "O",
+    "irradiation_position": 2,
+    "isotopes": {
+        "He4": {
+            "detector": "AxEM",
+            "name": "He4",
+            "serial_id": "00000",
+            "units": "fA"
+        }
+    },
+    "laboratory": "",
+    "latitude": 0.0,
+    "lithology": "",
+    "lithology_class": "",
+    "lithology_group": "",
+    "lithology_type": "",
+    "longitude": 0.0,
+    "mass_spectrometer": "Sft",
+    "material": "NotListed",
+    "measurement": "sft_unk_em_Ap.py",
+    "meta_commit": "3be1790c8d8aa02901ec4f683ef08f26ceb30c72",
+    "note": "",
+    "post_equilibration": "sft_pump_extractionline.py",
+    "post_measurement": "sft_pump_ms.py",
+    "principal_investigator": "McDonald, C",
+    "project": "Maniciuagan",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Maniciuagan",
+    "rlocation": "",
+    "sample": "ASU_DUR01",
+    "source": {
+        "emission": 2025.0,
+        "trap": 400.68973
+    },
+    "spec_sha": "aab95549333acf44aadfda09a75704217c15c97e",
+    "time_zero_timestamp": "2026-04-16T16:04:37.091778",
+    "timestamp": "2026-04-16T16:19:33.314858",
+    "tripped_conditional": null,
+    "unit": "",
+    "username": "ChrisMcDonald",
+    "uuid": "1ae1ac43-e959-4972-b9d1-3e57aac6b7ca",
+    "whiff_result": null
+}
